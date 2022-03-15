@@ -41,7 +41,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" height="50" />
-
 </div>
-
 </td></tr></table>  
+
+<div>
+  ![Snake animation](https://github.com/ricbaiano/ricbaiano/blob/output/github-contribution-grid-snake.svg)
+</div>
